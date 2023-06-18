@@ -10,8 +10,8 @@ const texto2 = "alura";
 
 console.log(texto1 === texto2);
 
-const cidade = "Rio de Janeiro";
-const input = "rio de janeiro";
+const cidade = "rio de janeiro";
+const input = "Rio de Janeiro";
 
 const inputMinusculo = input.toLowerCase();
 
