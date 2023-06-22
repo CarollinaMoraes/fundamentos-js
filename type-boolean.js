@@ -1,18 +1,14 @@
-const firstNumber = 5;
-const secondNumber = 5;
+// boolean
+// true -> verdadeiro
+// false -> falso
 
-let cadastroAtiva = true;
+const primeiroNumero = 5;
+const segundoNumero = 5;
+let cadastroAtivado = true;
 
-console.log(firstNumber === secondNumber);
+//console.log(primeiroNumero === segundoNumero);
 
 const texto1 = "Alura";
 const texto2 = "alura";
 
-console.log(texto1 === texto2);
-
-const cidade = "rio de janeiro";
-const input = "Rio de Janeiro";
-
-const inputMinusculo = input.toLowerCase();
-
-console.log(cidade === inputMinusculo); // true
+console.log(texto1 === texto2)
